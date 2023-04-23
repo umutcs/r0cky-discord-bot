@@ -4345,11 +4345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Can\\Desktop\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\r0cky.csproj",
+      "projectUniqueName": "C:\\Users\\Can\\Desktop\\Yazılım\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\r0cky.csproj",
       "projectName": "r0cky",
-      "projectPath": "C:\\Users\\Can\\Desktop\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\r0cky.csproj",
+      "projectPath": "C:\\Users\\Can\\Desktop\\Yazılım\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\r0cky.csproj",
       "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Can\\Desktop\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Can\\Desktop\\Yazılım\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pl3toL2uyrl47X3Pgt/IdZwO8/7UB87goI26nfn1j9MWFlZ4G+wRIPDNnbrDCX5YzKUsR2+SFZVlLPsA8DfN9w==",
+  "dgSpecHash": "E7WPoUGMV9l2eBSlhMa7WVsXKoXcJNS3SEBtBK4/C3006AcLLRFrsC6bruoOdnvGilT+wSyzOLXglHp0j60IcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Can\\Desktop\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\r0cky.csproj",
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\Yazılım\\r0cky-discord-bot\\ConsoleApp1\\ConsoleApp1\\r0cky.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Can\\.nuget\\packages\\concurrenthashset\\1.3.0\\concurrenthashset.1.3.0.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\dsharpplus\\4.4.0\\dsharpplus.4.4.0.nupkg.sha512",
